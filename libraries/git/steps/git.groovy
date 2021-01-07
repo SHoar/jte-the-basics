@@ -1,4 +1,4 @@
-void add(ArrayList files){
+void add(List files){
     println "git add ${files.join(" ")}"
 }
 
